@@ -1,6 +1,6 @@
 <?php
 
-
+ 
 namespace App\Security\Heimdall;
 
 use App\HttpClient\HeimdallClient;
